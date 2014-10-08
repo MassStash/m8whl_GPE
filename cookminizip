@@ -13,7 +13,7 @@ toolchainDir="~/AndroidDev/AAtoolchains/linaro_toolchains_2014/arm-cortex_a15-li
 #Path where you would like the kernel to be outputed
 exportDir="~/Desktop/Copy/AndroidDev/Kernz/m8whl/out" #( Example /home/user/Desktop )
 #Change default to what ever you like
-kernel1name="MassStashedX-FlarPort-1.04.1-GPE-4.4.4"
+kernel1name="MassStashedX-FlarPort-1.08.2-GPE-4.4.4"
 kernel2name="MassStashedX-FlarPort-1.04.1-GPE-4.4.4"
 kernel3name="Default-3"
 #Do not edit
